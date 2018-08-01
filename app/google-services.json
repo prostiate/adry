@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "853963262722",
+    "firebase_url": "https://tiket-adry.firebaseio.com",
+    "project_id": "tiket-adry",
+    "storage_bucket": "tiket-adry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853963262722:android:e8bdc15638b0311e",
+        "android_client_info": {
+          "package_name": "com.vincent.tiketadry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853963262722-07d7pcd7b3k024opk3p87n49te1bkbkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6KzpCdMOimlWHCsvf7oLfsQILfzpE8fg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
